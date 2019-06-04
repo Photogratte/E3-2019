@@ -3,7 +3,7 @@
  - L'agenda Google ICS qui liste tous les évènements JV dont les conférences de l'E3, géré par moi-même : [Les rendez-vous jeux vidéo](https://calendar.google.com/calendar/embed?src=n774fsp256r4d5hcj1eg10jbmk@group.calendar.google.com&ctz=Europe/Paris)
  - Et un autre Agenda ICS centré sur les conférences des E3 et géré par [@netsabes](https://twitter.com/netsabes) : [E3](https://calendar.google.com/calendar/embed?src=ha7q6dc23e3adn95l2nih9l2jg@group.calendar.google.com&ctz=Europe/Paris)
 
-Cliquez sur le bouton ![bouton google calendar](https://gitlab.com/Photogratte/e3-2019/raw/master/Google_calendar_bouton.jpg) en bas de la page pour ajouter ce calendrier dans votre agenda Google.
+Cliquez sur le bouton ![bouton google calendar](https://gitlab.com/Photogratte/e3-2019/raw/master/Ressources/Google_calendar_bouton.jpg) en bas de la page pour ajouter ce calendrier dans votre agenda Google.
 
 ## Agenda des conférences et directs :
 
@@ -30,7 +30,6 @@ Cliquez sur le bouton ![bouton google calendar](https://gitlab.com/Photogratte/e
 - 01h30 : Kinda Funny Games Showcase [live](https://www.twitch.tv/bethesda)
 - 03h : Square Enix [live](https://www.twitch.tv/bethesda)
 - 18h : Nintendo [live](https://www.twitch.tv/bethesda)
-
 
 ## Détails des conférences/directs :
 
