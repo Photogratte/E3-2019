@@ -1,6 +1,6 @@
 # Planning des conférences
 
-[Vidéos de jeux (par ordre alphabétique)](https://gitlab.com/Photogratte/e3-2019/blob/master/trailersE32019alphasort.md) | [URLs E3 2019](https://gitlab.com/Photogratte/e3-2019/blob/master/urlsE32019.md) | Une question, une remarque, un truc que j'ai oublié ? DM [@Photogratte](https://twitter.com/Photogratte)
+[Planning des conférences](https://github.com/Photogratte/E3-2019/blob/master/Conf%C3%A9rences_E3_2019.md) | [Vidéos de jeux (par ordre alphabétique)](https://github.com/Photogratte/E3-2019/blob/master/trailersE32019alphasort.md) | [Liste des URLs](https://github.com/Photogratte/E3-2019/blob/master/urlsE32019.md) | Une question, une remarque, un truc que j'ai oublié ? DM [@Photogratte](https://twitter.com/Photogratte)
 
 ## Agenda ICS des conférences :
 
