@@ -1,3 +1,8 @@
+# Planning des conférences
+
+[Vidéos de jeux (par ordre alphabétique)](https://gitlab.com/Photogratte/e3-2019/blob/master/trailersE32019alphasort.md) | Une question, une remarque, un truc que j'ai oublié ? DM [@Photogratte](https://twitter.com/Photogratte)
+
+
 ## Agenda ICS des conférences :
 
  - L'agenda Google ICS qui liste tous les évènements JV dont les conférences de l'E3, géré par moi-même : [Les rendez-vous jeux vidéo](https://calendar.google.com/calendar/embed?src=n774fsp256r4d5hcj1eg10jbmk@group.calendar.google.com&ctz=Europe/Paris)
@@ -61,8 +66,8 @@ Cliquez sur le bouton ![bouton google calendar](https://gitlab.com/Photogratte/e
 **Xbox**
  - Liens du live :
    - Mixer Xbox France : https://mixer.com/XboxFR/
-   - Twitch Xbox : [https://www.twitch.tv/xbox](https://www.twitch.tv/xbox)
-   - YouTube Xbox France : [https://www.youtube.com/user/xbox]
+   - Twitch Xbox : https://www.twitch.tv/xbox
+   - YouTube Xbox France : https://www.youtube.com/user/xbox
  - Annonce officielle : https://news.xbox.com/fr-fr/2019/04/16/tout-sur-le3-2019/
  - Article presse : https://xboxsquad.fr/news/2019/03/tous-les-details-et-les-attentes-de-la-conference-e3-2019-de-microsoft/
  - Durée prévue : 1h40 
@@ -97,7 +102,7 @@ Cliquez sur le bouton ![bouton google calendar](https://gitlab.com/Photogratte/e
  - Annonce officielle : https://www.pcgamer.com/the-pc-gaming-show-returns-to-e3-2019/
  - Vidéo de l'annonce : https://youtu.be/uMHAXjZuqt0
  - Article presse : https://www.gamekult.com/actualite/le-pc-gaming-show-confirme-son-retour-a-l-e3-2019-3050815441.html
- - Contenu : "Le PC Gaming Show revient à l'E3 2019   Plus de bandes-annonces, de nouveaux jeux et d'annonces en direct sur Twitch,"
+ - Contenu : "Le PC Gaming Show revient à l'E3 2019   Plus de bandes-annonces, de nouveaux jeux et d'annonces en direct sur Twitch"
 
 **Limited Run Games**
  - Lien du live : https://www.twitch.tv/limitedrungames
