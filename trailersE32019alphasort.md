@@ -52,23 +52,28 @@ Accès rapide : [#A](https://gitlab.com/Photogratte/e3-2019/blob/master/trailers
 * 
 
 ## A
-* 
+* ANIMAL CROSSING (Nintendo)
 
 ## B
 
 ## C
+* Cyberpunk 2077 (CD Projekt Red)
 
 ## D
 * Darksiders 2019 (THQ Nordic)
 * Destroy All Human (THQ Nordic)
+* Dragon Ball Project Z (Bandai Namco)
 
 ## E
 
 ## F
 
 ## G
+* Ghostbusters: The Video Game Remastered https://www.youtube.com/watch?v=M6ON61SZs-A
+* Gears 5 (Microsoft)
 
 ## H
+* Halo Infinite (Microsoft)
 
 ## I
 
@@ -83,8 +88,10 @@ Accès rapide : [#A](https://gitlab.com/Photogratte/e3-2019/blob/master/trailers
 ## N
 
 ## O
+* Outriders (Square Enix)
 
 ## P
+* POKÉMON EPÉE ET BOUCLIER (Nintendo)
 
 ## Q
 
@@ -92,15 +99,17 @@ Accès rapide : [#A](https://gitlab.com/Photogratte/e3-2019/blob/master/trailers
 * Red Faction Evolution (THQ Nordic)
 
 ## S
+* Star Wars Jedi : The Fallen Order (EA) https://youtu.be/0GLbwkfhYZk
 
 ## T
+* The Avengers project (Square Enix/Marvel) https://youtu.be/rq_V6WHSmQs
 
 ## U
 
 ## V
 
 ## W
-* Watchdog Legion (Ubisoft)
+* Watchdog Legion (Ubisoft) https://twitter.com/gameone/status/1136181107588829185
 
 ## X
 
