@@ -2,40 +2,45 @@
 
 Merci à @netsabes pour le modèle de projet git et de présentation
 
+[Planning des conférences](https://gitlab.com/Photogratte/e3-2019/blob/master/Conf%C3%A9rences_E3_2019.md)] | [Vidéos de jeux (par ordre alphabétique)](https://gitlab.com/Photogratte/e3-2019/blob/master/trailersE32019alphasort.md) | Une question, une remarque, un truc que j'ai oublié ? DM [@Photogratte](https://twitter.com/Photogratte)
 
-Accès rapide : [#A](https://gist.github.com/sebasten/6bcf5ad3b89eb8eee5f8d113871623c0#a) 
-[#B](https://gist.github.com/sebasten/6bcf5ad3b89eb8eee5f8d113871623c0#b)
-[#C](https://gist.github.com/sebasten/6bcf5ad3b89eb8eee5f8d113871623c0#c)
-[#D](https://gist.github.com/sebasten/6bcf5ad3b89eb8eee5f8d113871623c0#d)
-[#E](https://gist.github.com/sebasten/6bcf5ad3b89eb8eee5f8d113871623c0#e)
-[#F](https://gist.github.com/sebasten/6bcf5ad3b89eb8eee5f8d113871623c0#f)
-[#G](https://gist.github.com/sebasten/6bcf5ad3b89eb8eee5f8d113871623c0#g)
-[#H](https://gist.github.com/sebasten/6bcf5ad3b89eb8eee5f8d113871623c0#h)
-[#I](https://gist.github.com/sebasten/6bcf5ad3b89eb8eee5f8d113871623c0#i)
-[#J](https://gist.github.com/sebasten/6bcf5ad3b89eb8eee5f8d113871623c0#j)
-[#K](https://gist.github.com/sebasten/6bcf5ad3b89eb8eee5f8d113871623c0#k)
-[#L](https://gist.github.com/sebasten/6bcf5ad3b89eb8eee5f8d113871623c0#l)
-[#M](https://gist.github.com/sebasten/6bcf5ad3b89eb8eee5f8d113871623c0#m)
-[#N](https://gist.github.com/sebasten/6bcf5ad3b89eb8eee5f8d113871623c0#n)
-[#O](https://gist.github.com/sebasten/6bcf5ad3b89eb8eee5f8d113871623c0#o)
-[#P](https://gist.github.com/sebasten/6bcf5ad3b89eb8eee5f8d113871623c0#p)
-[#Q](https://gist.github.com/sebasten/6bcf5ad3b89eb8eee5f8d113871623c0#q)
-[#R](https://gist.github.com/sebasten/6bcf5ad3b89eb8eee5f8d113871623c0#r)
-[#S](https://gist.github.com/sebasten/6bcf5ad3b89eb8eee5f8d113871623c0#s)
-[#T](https://gist.github.com/sebasten/6bcf5ad3b89eb8eee5f8d113871623c0#t)
-[#U](https://gist.github.com/sebasten/6bcf5ad3b89eb8eee5f8d113871623c0#u)
-[#V](https://gist.github.com/sebasten/6bcf5ad3b89eb8eee5f8d113871623c0#v)
-[#W](https://gist.github.com/sebasten/6bcf5ad3b89eb8eee5f8d113871623c0#w)
-[#X](https://gist.github.com/sebasten/6bcf5ad3b89eb8eee5f8d113871623c0#x)
-[#Y](https://gist.github.com/sebasten/6bcf5ad3b89eb8eee5f8d113871623c0#y)
-[#Z](https://gist.github.com/sebasten/6bcf5ad3b89eb8eee5f8d113871623c0#z)
-[#0-9](https://gist.github.com/sebasten/6bcf5ad3b89eb8eee5f8d113871623c0#0-9)
+Accès rapide : [#A](https://gitlab.com/Photogratte/e3-2019/blob/master/trailersE32019alphasort.md#a) 
+[#B](https://gitlab.com/Photogratte/e3-2019/blob/master/trailersE32019alphasort.md#b)
+[#C](https://gitlab.com/Photogratte/e3-2019/blob/master/trailersE32019alphasort.md#c)
+[#D](https://gitlab.com/Photogratte/e3-2019/blob/master/trailersE32019alphasort.md#d)
+[#E](https://gitlab.com/Photogratte/e3-2019/blob/master/trailersE32019alphasort.md#e)
+[#F](https://gitlab.com/Photogratte/e3-2019/blob/master/trailersE32019alphasort.md#f)
+[#G](https://gitlab.com/Photogratte/e3-2019/blob/master/trailersE32019alphasort.md#g)
+[#H](https://gitlab.com/Photogratte/e3-2019/blob/master/trailersE32019alphasort.md#h)
+[#I](https://gitlab.com/Photogratte/e3-2019/blob/master/trailersE32019alphasort.md#i)
+[#J](https://gitlab.com/Photogratte/e3-2019/blob/master/trailersE32019alphasort.md#j)
+[#K](https://gitlab.com/Photogratte/e3-2019/blob/master/trailersE32019alphasort.md#k)
+[#L](https://gitlab.com/Photogratte/e3-2019/blob/master/trailersE32019alphasort.md#l)
+[#M](https://gitlab.com/Photogratte/e3-2019/blob/master/trailersE32019alphasort.md#m)
+[#N](https://gitlab.com/Photogratte/e3-2019/blob/master/trailersE32019alphasort.md#n)
+[#O](https://gitlab.com/Photogratte/e3-2019/blob/master/trailersE32019alphasort.md#o)
+[#P](https://gitlab.com/Photogratte/e3-2019/blob/master/trailersE32019alphasort.md#p)
+[#Q](https://gitlab.com/Photogratte/e3-2019/blob/master/trailersE32019alphasort.md#q)
+[#R](https://gitlab.com/Photogratte/e3-2019/blob/master/trailersE32019alphasort.md#r)
+[#S](https://gitlab.com/Photogratte/e3-2019/blob/master/trailersE32019alphasort.md#s)
+[#T](https://gitlab.com/Photogratte/e3-2019/blob/master/trailersE32019alphasort.md#t)
+[#U](https://gitlab.com/Photogratte/e3-2019/blob/master/trailersE32019alphasort.md#u)
+[#V](https://gitlab.com/Photogratte/e3-2019/blob/master/trailersE32019alphasort.md#v)
+[#W](https://gitlab.com/Photogratte/e3-2019/blob/master/trailersE32019alphasort.md#w)
+[#X](https://gitlab.com/Photogratte/e3-2019/blob/master/trailersE32019alphasort.md#x)
+[#Y](https://gitlab.com/Photogratte/e3-2019/blob/master/trailersE32019alphasort.md#y)
+[#Z](https://gitlab.com/Photogratte/e3-2019/blob/master/trailersE32019alphasort.md#z)
+[#0-9](https://gitlab.com/Photogratte/e3-2019/blob/master/trailersE32019alphasort.md#0-9)
+
+
+
+# OLD Videos E3 2018 (ordre alphabétique)
+
 
 ## Conférences
-* Nintendo https://www.youtube.com/watch?v=J8k_hbNIPpk
-* Playstation https://www.youtube.com/watch?v=y_SpJzt_cXE
-* PC Gaming Show https://www.youtube.com/watch?v=aARzwDFGubc
-* Ubisoft https://www.youtube.com/watch?v=O7BtF20cEsE
+* Nintendo 
+* PC Gaming Show 
+* Ubisoft 
 * Limited Run Games https://www.twitch.tv/videos/272091177
 * Square Enix https://www.youtube.com/watch?v=lHo705XNa2I
 * Devolver https://www.twitch.tv/videos/271895785
