@@ -2,7 +2,7 @@
 
 Merci à @netsabes pour le modèle de projet git et de présentation
 
-[Planning des conférences](https://gitlab.com/Photogratte/e3-2019/blob/master/Conf%C3%A9rences_E3_2019.md)] | [Vidéos de jeux (par ordre alphabétique)](https://gitlab.com/Photogratte/e3-2019/blob/master/trailersE32019alphasort.md) | Une question, une remarque, un truc que j'ai oublié ? DM [@Photogratte](https://twitter.com/Photogratte)
+[Planning des conférences](https://gitlab.com/Photogratte/e3-2019/blob/master/Conf%C3%A9rences_E3_2019.md) | [URLs E3 2019](https://gitlab.com/Photogratte/e3-2019/blob/master/urlsE32019.md) | Une question, une remarque, un truc que j'ai oublié ? DM [@Photogratte](https://twitter.com/Photogratte)
 
 Accès rapide : [#A](https://gitlab.com/Photogratte/e3-2019/blob/master/trailersE32019alphasort.md#a) 
 [#B](https://gitlab.com/Photogratte/e3-2019/blob/master/trailersE32019alphasort.md#b)
