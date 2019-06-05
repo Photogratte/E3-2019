@@ -2,7 +2,6 @@
 
 [Vidéos de jeux (par ordre alphabétique)](https://gitlab.com/Photogratte/e3-2019/blob/master/trailersE32019alphasort.md) | Une question, une remarque, un truc que j'ai oublié ? DM [@Photogratte](https://twitter.com/Photogratte)
 
-
 ## Agenda ICS des conférences :
 
  - L'agenda Google ICS qui liste tous les évènements JV dont les conférences de l'E3, géré par moi-même : [Les rendez-vous jeux vidéo](https://calendar.google.com/calendar/embed?src=n774fsp256r4d5hcj1eg10jbmk@group.calendar.google.com&ctz=Europe/Paris)
