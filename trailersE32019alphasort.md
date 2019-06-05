@@ -59,6 +59,8 @@ Accès rapide : [#A](https://gitlab.com/Photogratte/e3-2019/blob/master/trailers
 ## C
 
 ## D
+* Darksiders 2019 (THQ Nordic)
+* Destroy All Human (THQ Nordic)
 
 ## E
 
@@ -87,6 +89,7 @@ Accès rapide : [#A](https://gitlab.com/Photogratte/e3-2019/blob/master/trailers
 ## Q
 
 ## R
+* Red Faction Evolution (THQ Nordic)
 
 ## S
 
@@ -97,6 +100,7 @@ Accès rapide : [#A](https://gitlab.com/Photogratte/e3-2019/blob/master/trailers
 ## V
 
 ## W
+* Watchdog Legion (Ubisoft)
 
 ## X
 
