@@ -63,6 +63,7 @@ Accès rapide : [#A](https://github.com/Photogratte/E3-2019/blob/master/trailers
 * Darksiders 2019 (THQ Nordic)
 * Destroy All Human (THQ Nordic)
 * Dragon Ball Project Z (Bandai Namco)
+* Doom Eternal (Bethesda)
 
 ## E
 
