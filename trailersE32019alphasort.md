@@ -60,7 +60,7 @@ Accès rapide : [#A](https://github.com/Photogratte/E3-2019/blob/master/trailers
 * Cyberpunk 2077 (CD Projekt Red)
 
 ## D
-* Darksiders 2019 (THQ Nordic)
+* Darksiders Genesis (THQ Nordic) https://www.youtube.com/watch?v=UQ5ifGqYWTI
 * Destroy All Human (THQ Nordic)
 * Dragon Ball Project Z (Bandai Namco)
 * Doom Eternal (Bethesda)
