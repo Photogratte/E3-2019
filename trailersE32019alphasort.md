@@ -71,6 +71,7 @@ Accès rapide : [#A](https://github.com/Photogratte/E3-2019/blob/master/trailers
 ## G
 * Ghostbusters: The Video Game Remastered https://www.youtube.com/watch?v=M6ON61SZs-A
 * Gears 5 (Microsoft)
+* Grandia HD Collection (Game Arts) sur Switch et PC 
 
 ## H
 * Halo Infinite (Microsoft)
@@ -103,6 +104,7 @@ Accès rapide : [#A](https://github.com/Photogratte/E3-2019/blob/master/trailers
 
 ## T
 * The Avengers project (Square Enix/Marvel) https://youtu.be/rq_V6WHSmQs
+* The Elder Scrolls VI ?
 
 ## U
 
