@@ -12,28 +12,28 @@ Cliquez sur le bouton ![bouton google calendar](https://gitlab.com/Photogratte/e
 ## Agenda des conférences et directs :
 
 **Jeudi 6 juin**
- - 18h : Google Stadia [live](https://youtu.be/k-BbW6zAjL0)
- - 19h : Bungie [live](https://www.twitch.tv/bungie)
+ - 18h : Google Stadia https://youtu.be/k-BbW6zAjL0
+ - 19h : Bungie https://www.twitch.tv/bungie
 
 **Samedi 8 juin**
- - 18h15 : EA Play [live](https://www.twitch.tv/ea)
+ - 18h15 : EA Play https://www.twitch.tv/ea
 
 **Dimanche 9 juin**
-- 22h : Xbox [live](https://www.youtube.com/user/xbox)
+- 22h : Xbox https://www.youtube.com/user/xbox
 
 **Lundi 10 juin**
-- 2h30 : Bethesda [live](https://www.twitch.tv/bethesda)
-- 4h : Devolver [live](https://www.twitch.tv/devolverdigital)
-- 18h : UploadVR [live](https://www.twitch.tv/uploadvr)
-- 19h : PC Gaming Show [live](https://www.twitch.tv/pcgamer)
-- 21h : Limited Run Games [live](https://www.twitch.tv/limitedrungames)
-- 22h : Ubisoft (Pré-show à 21h) [live](https://www.youtube.com/channel/UCEl915e-AtoJ7i1m_SXekTw)
+- 2h30 : Bethesda https://www.twitch.tv/bethesda
+- 4h : Devolver https://www.twitch.tv/devolverdigital
+- 18h : UploadVR https://www.twitch.tv/uploadvr
+- 19h : PC Gaming Show https://www.twitch.tv/pcgamer
+- 21h : Limited Run Games https://www.twitch.tv/limitedrungames
+- 22h : Ubisoft (Pré-show à 21h) https://www.youtube.com/channel/UCEl915e-AtoJ7i1m_SXekTw
 
 **Mardi 11 juin** 
-- Minuit : AMD Next Horizon Gaming [live](https://www.youtube.com/user/amd)
-- 01h30 : Kinda Funny Games Showcase [live](https://www.youtube.com/user/KindaFunnyGames)
-- 03h : Square Enix [live](https://www.youtube.com/user/SquareEnixFrance)
-- 18h : Nintendo [live](https://www.youtube.com/user/NintendoFR) 
+- Minuit : AMD Next Horizon Gaming https://www.youtube.com/user/amd
+- 01h30 : Kinda Funny Games Showcase https://www.youtube.com/user/KindaFunnyGames
+- 03h : Square Enix https://www.youtube.com/user/SquareEnixFrance
+- 18h : Nintendo https://www.youtube.com/user/NintendoFR 
 
 ## Détails des conférences/directs :
 
