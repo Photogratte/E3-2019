@@ -87,6 +87,7 @@ Accès rapide : [#A](https://github.com/Photogratte/E3-2019/blob/master/trailers
 ## L
 
 ## M
+* My Friend Pedro (Deadtoast) | Switch/Steam https://youtu.be/q-AsYZCdpts
 
 ## N
 
@@ -94,7 +95,7 @@ Accès rapide : [#A](https://github.com/Photogratte/E3-2019/blob/master/trailers
 * Outriders (Square Enix)
 
 ## P
-* POKÉMON EPÉE ET BOUCLIER (Nintendo)
+* POKÉMON EPÉE ET BOUCLIER (Nintendo) | Switch
 
 ## Q
 
@@ -113,7 +114,7 @@ Accès rapide : [#A](https://github.com/Photogratte/E3-2019/blob/master/trailers
 ## V
 
 ## W
-* Watchdog Legion (Ubisoft) https://twitter.com/gameone/status/1136181107588829185
+* Watchdog Legion (Ubisoft) | PS4/XboxOne/Stadia/PC https://twitter.com/gameone/status/1136181107588829185
 
 ## X
 
