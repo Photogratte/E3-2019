@@ -72,10 +72,11 @@ Accès rapide : [#A](https://github.com/Photogratte/E3-2019/blob/master/trailers
 ## G
 * Ghostbusters: The Video Game Remastered https://www.youtube.com/watch?v=M6ON61SZs-A
 * Gears 5 (Microsoft)
-* Grandia HD Collection (Game Arts) sur Switch et PC 
+* Grandia HD Collection (Game Arts) | Switch et PC 
+* Gylt (Tequila Works) | Stadia Exclusive https://www.youtube.com/watch?v=Qk3Qp_npjxE
 
 ## H
-* Halo Infinite (Microsoft)
+* Halo Infinite (Microsoft) | Xbox One
 
 ## I
 
