@@ -61,7 +61,7 @@ Accès rapide : [#A](https://github.com/Photogratte/E3-2019/blob/master/trailers
 
 ## D
 * Darksiders Genesis (THQ Nordic) https://www.youtube.com/watch?v=UQ5ifGqYWTI
-* Destroy All Human (THQ Nordic)
+* Destroy All Human (THQ Nordic) https://youtu.be/DHMDrhBREXU
 * Dragon Ball Project Z (Bandai Namco)
 * Doom Eternal (Bethesda)
 
@@ -95,11 +95,12 @@ Accès rapide : [#A](https://github.com/Photogratte/E3-2019/blob/master/trailers
 * Outriders (Square Enix)
 
 ## P
-* POKÉMON EPÉE ET BOUCLIER (Nintendo) | Switch
+* POKÉMON EPÉE ET BOUCLIER (Nintendo) | Switch 
 
 ## Q
 
 ## R
+* Rainbow Six Quarantine (Ubisoft)
 * Red Faction Evolution (THQ Nordic)
 
 ## S
