@@ -49,19 +49,20 @@ Accès rapide : [#A](https://github.com/Photogratte/E3-2019/blob/master/trailers
 * Nintendo https://www.youtube.com/user/NintendoFR 
 
 ## Streams variés
-* 
+* A venir
 
 ## A
-* ANIMAL CROSSING (Nintendo)
+* Animal Crossing (Nintendo) | Switch 
 
 ## B
+* Biomutant | PC, Xbox One et PlayStation 4 https://youtu.be/SxZ6WGdFVrk
 
 ## C
 * Cyberpunk 2077 (CD Projekt Red)
 
 ## D
-* Darksiders Genesis (THQ Nordic) https://www.youtube.com/watch?v=UQ5ifGqYWTI
-* Destroy All Human (THQ Nordic) https://youtu.be/DHMDrhBREXU
+* Darksiders Genesis (THQ Nordic) | https://www.youtube.com/watch?v=UQ5ifGqYWTI
+* Destroy All Human (THQ Nordic) | https://youtu.be/DHMDrhBREXU
 * Dragon Ball Project Z (Bandai Namco)
 * Doom Eternal (Bethesda)
 
@@ -70,13 +71,13 @@ Accès rapide : [#A](https://github.com/Photogratte/E3-2019/blob/master/trailers
 ## F
 
 ## G
-* Ghostbusters: The Video Game Remastered https://www.youtube.com/watch?v=M6ON61SZs-A
+* Ghostbusters: The Video Game Remastered | https://www.youtube.com/watch?v=M6ON61SZs-A
 * Gears 5 (Microsoft)
-* Grandia HD Collection (Game Arts) | Switch et PC 
-* Gylt (Tequila Works) | Stadia Exclusive https://www.youtube.com/watch?v=Qk3Qp_npjxE
+* Grandia HD Collection (Game Arts) | Switch et PC | 
+* Gylt (Tequila Works) | Stadia Exclusive | https://www.youtube.com/watch?v=Qk3Qp_npjxE
 
 ## H
-* Halo Infinite (Microsoft) | Xbox One
+* Halo Infinite (Microsoft) | Xbox One | 
 
 ## I
 
@@ -87,7 +88,7 @@ Accès rapide : [#A](https://github.com/Photogratte/E3-2019/blob/master/trailers
 ## L
 
 ## M
-* My Friend Pedro (Deadtoast) | Switch/Steam https://youtu.be/q-AsYZCdpts
+* My Friend Pedro (Deadtoast) | Switch/Steam | https://youtu.be/q-AsYZCdpts
 
 ## N
 
@@ -95,7 +96,7 @@ Accès rapide : [#A](https://github.com/Photogratte/E3-2019/blob/master/trailers
 * Outriders (Square Enix)
 
 ## P
-* POKÉMON EPÉE ET BOUCLIER (Nintendo) | Switch 
+* Pokémon Épée et Bouclier (Nintendo) | Switch 
 
 ## Q
 
@@ -104,10 +105,10 @@ Accès rapide : [#A](https://github.com/Photogratte/E3-2019/blob/master/trailers
 * Red Faction Evolution (THQ Nordic)
 
 ## S
-* Star Wars Jedi : The Fallen Order (EA) https://youtu.be/0GLbwkfhYZk
+* Star Wars Jedi : The Fallen Order (EA) | | https://youtu.be/0GLbwkfhYZk
 
 ## T
-* The Avengers project (Square Enix/Marvel) https://youtu.be/rq_V6WHSmQs
+* The Avengers project (Square Enix/Marvel) | | https://youtu.be/rq_V6WHSmQs
 * The Elder Scrolls VI ?
 
 ## U
@@ -115,7 +116,7 @@ Accès rapide : [#A](https://github.com/Photogratte/E3-2019/blob/master/trailers
 ## V
 
 ## W
-* Watchdog Legion (Ubisoft) | PS4/XboxOne/Stadia/PC https://twitter.com/gameone/status/1136181107588829185
+* Watchdog Legion (Ubisoft) | PS4/XboxOne/Stadia/PC | | https://twitter.com/gameone/status/1136181107588829185
 
 ## X
 
