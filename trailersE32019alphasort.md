@@ -91,12 +91,13 @@ Accès rapide : [#A](https://github.com/Photogratte/E3-2019/blob/master/trailers
 * My Friend Pedro (Deadtoast) | Switch/Steam | https://youtu.be/q-AsYZCdpts
 
 ## N
+* Ni no kuni : la vengeance de la sorcière céleste | Switch https://youtu.be/dNFyPm8HSho
 
 ## O
 * Outriders (Square Enix)
 
 ## P
-* Pokémon Épée et Bouclier (Nintendo) | Switch 
+* Pokémon Épée et Bouclier (Nintendo) | Switch https://youtu.be/YPltcxmB8I8
 
 ## Q
 
