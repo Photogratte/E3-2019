@@ -94,6 +94,7 @@ Accès rapide : [#A](https://github.com/Photogratte/E3-2019/blob/master/trailers
 
 ## M
 * Madden NFL 20 (EA) | Aventure de superstar |  | https://www.youtube.com/watch?v=0MVNCFoeD9I&list=PLLy6qvPKpdlXoG73_jKw0zZ2Dk6wmn2Ad&index=5
+* Marvel's Avengers (Square Enix/Marvel) | PC, Stadia, Xbox One et PlayStation 4 | https://youtu.be/rq_V6WHSmQs
 * My Friend Pedro (Deadtoast) | Switch et Steam | https://youtu.be/q-AsYZCdpts
 
 ## N
@@ -115,7 +116,6 @@ Accès rapide : [#A](https://github.com/Photogratte/E3-2019/blob/master/trailers
 * Star Wars Jedi : The Fallen Order (EA) | PC, PS4, et Xbox One | https://www.youtube.com/watch?v=8939aURV9Dc&list=PLLy6qvPKpdlXoG73_jKw0zZ2Dk6wmn2Ad
 
 ## T
-* The Avengers project (Square Enix/Marvel) | | https://youtu.be/rq_V6WHSmQs
 * The Elder Scrolls VI ?
 
 ## U
