@@ -87,12 +87,13 @@ Accès rapide : [#A](https://github.com/Photogratte/E3-2019/blob/master/trailers
 ## J
 
 ## K
+* Kingdom Hearts 3 (Square Enix) | Re:Mind DLC Trailer | PC, Xbox One et PlayStation 4 | https://www.youtube.com/watch?v=cYCKfofK3Yk
 
 ## L
-* Les Sims 4 | Iles paradisiaques :bande-annonce officielle de révélation |  | https://www.youtube.com/watch?v=ihFbmjYm7CQ&list=PLLy6qvPKpdlXoG73_jKw0zZ2Dk6wmn2Ad&index=6
+* Les Sims 4 | Iles paradisiaques :bande-annonce officielle de révélation | PC, Xbox One et PlayStation 4 | https://www.youtube.com/watch?v=ihFbmjYm7CQ&list=PLLy6qvPKpdlXoG73_jKw0zZ2Dk6wmn2Ad&index=6
 
 ## M
-* Madden NFL 20 (EA) | Aventure de superstar | | https://www.youtube.com/watch?v=0MVNCFoeD9I&list=PLLy6qvPKpdlXoG73_jKw0zZ2Dk6wmn2Ad&index=5
+* Madden NFL 20 (EA) | Aventure de superstar |  | https://www.youtube.com/watch?v=0MVNCFoeD9I&list=PLLy6qvPKpdlXoG73_jKw0zZ2Dk6wmn2Ad&index=5
 * My Friend Pedro (Deadtoast) | Switch et Steam | https://youtu.be/q-AsYZCdpts
 
 ## N
