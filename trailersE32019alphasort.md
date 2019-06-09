@@ -53,22 +53,25 @@ Accès rapide : [#A](https://github.com/Photogratte/E3-2019/blob/master/trailers
 
 ## A
 * Animal Crossing (Nintendo) | Switch 
+* Apex Legends | Histoires des Terres Sauvages https://www.youtube.com/watch?v=jCYB1BeDv1w&list=PLLy6qvPKpdlXoG73_jKw0zZ2Dk6wmn2Ad&index=2
 
 ## B
-* Biomutant | PC, Xbox One et PlayStation 4 https://youtu.be/SxZ6WGdFVrk
+* Battlefield V (EA) | Découvrez la nouvelle carte Marita | https://www.youtube.com/watch?v=8t4TW08Dw38&list=PLLy6qvPKpdlXoG73_jKw0zZ2Dk6wmn2Ad&index=3
+* Biomutant (THQ Nordic) | PC, Xbox One et PlayStation 4 | https://youtu.be/SxZ6WGdFVrk
 
 ## C
-* Cyberpunk 2077 (CD Projekt Red)
+* Cyberpunk 2077 (CD Projekt Red) | PC, Xbox One et PlayStation 4 | 
 
 ## D
-* Darksiders Genesis (THQ Nordic) | https://www.youtube.com/watch?v=UQ5ifGqYWTI
+* Darksiders Genesis (THQ Nordic) | PC, Xbox One et PlayStation 4 | https://www.youtube.com/watch?v=UQ5ifGqYWTI
 * Destroy All Human (THQ Nordic) | https://youtu.be/DHMDrhBREXU
-* Dragon Ball Project Z (Bandai Namco)
-* Doom Eternal (Bethesda)
+* Dragon Ball Project Z (Bandai Namco) | PC, Xbox One et PlayStation 4 | 
+* Doom Eternal (Bethesda) | PC, Xbox One et PlayStation 4 | 
 
 ## E
 
 ## F
+* FIFA 20 (EA) | Bande-annonce officielle VOLTA Football | PC, Switch, Xbox One et PlayStation 4 | https://www.youtube.com/watch?v=9E4HMgh7ZsE&list=PLLy6qvPKpdlXoG73_jKw0zZ2Dk6wmn2Ad&index=4
 
 ## G
 * Ghostbusters: The Video Game Remastered | https://www.youtube.com/watch?v=M6ON61SZs-A
@@ -86,18 +89,20 @@ Accès rapide : [#A](https://github.com/Photogratte/E3-2019/blob/master/trailers
 ## K
 
 ## L
+* Les Sims 4 | Iles paradisiaques :bande-annonce officielle de révélation |  | https://www.youtube.com/watch?v=ihFbmjYm7CQ&list=PLLy6qvPKpdlXoG73_jKw0zZ2Dk6wmn2Ad&index=6
 
 ## M
-* My Friend Pedro (Deadtoast) | Switch/Steam | https://youtu.be/q-AsYZCdpts
+* Madden NFL 20 (EA) | Aventure de superstar | | https://www.youtube.com/watch?v=0MVNCFoeD9I&list=PLLy6qvPKpdlXoG73_jKw0zZ2Dk6wmn2Ad&index=5
+* My Friend Pedro (Deadtoast) | Switch et Steam | https://youtu.be/q-AsYZCdpts
 
 ## N
-* Ni no kuni : la vengeance de la sorcière céleste | Switch https://youtu.be/dNFyPm8HSho
+* Ni no kuni : la vengeance de la sorcière céleste | Switch | https://youtu.be/dNFyPm8HSho
 
 ## O
 * Outriders (Square Enix)
 
 ## P
-* Pokémon Épée et Bouclier (Nintendo) | Switch https://youtu.be/YPltcxmB8I8
+* Pokémon Épée et Bouclier (Nintendo) | Switch | https://youtu.be/YPltcxmB8I8
 
 ## Q
 
@@ -106,7 +111,7 @@ Accès rapide : [#A](https://github.com/Photogratte/E3-2019/blob/master/trailers
 * Red Faction Evolution (THQ Nordic)
 
 ## S
-* Star Wars Jedi : The Fallen Order (EA) | | https://youtu.be/0GLbwkfhYZk
+* Star Wars Jedi : The Fallen Order (EA) | PC, PS4, et Xbox One | https://www.youtube.com/watch?v=8939aURV9Dc&list=PLLy6qvPKpdlXoG73_jKw0zZ2Dk6wmn2Ad
 
 ## T
 * The Avengers project (Square Enix/Marvel) | | https://youtu.be/rq_V6WHSmQs
@@ -117,7 +122,7 @@ Accès rapide : [#A](https://github.com/Photogratte/E3-2019/blob/master/trailers
 ## V
 
 ## W
-* Watchdog Legion (Ubisoft) | PS4/XboxOne/Stadia/PC | | https://twitter.com/gameone/status/1136181107588829185
+* Watchdog Legion (Ubisoft) | PS4/XboxOne/Stadia/PC | https://twitter.com/gameone/status/1136181107588829185
 
 ## X
 
