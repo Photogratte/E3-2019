@@ -107,15 +107,15 @@ Accès rapide : [#A](https://github.com/Photogratte/E3-2019/blob/master/trailers
 * Gods & Monsters (Ubisoft) | https://www.youtube.com/watch?v=Egzb6_HCqQw
 * Grandia HD Collection (Game Arts) | PC, Switch | 
 * Griftlands | https://www.youtube.com/watch?v=TfCiOYCF3Qg
-* Gylt (Tequila Works) | Stadia Exclusive | https://www.youtube.com/watch?v=Qk3Qp_npjxE
+* Gylt (Tequila Works) | Stadia | https://www.youtube.com/watch?v=Qk3Qp_npjxE
 
 ## H
-* Halo Infinite (Microsoft) | https://www.youtube.com/watch?v=MBb88gLmJZY
+* Halo Infinite (Microsoft) | PC, Xbox One | https://www.youtube.com/watch?v=MBb88gLmJZY
 
 ## I
 
 ## J
-* Just Dance 2020 :https://www.youtube.com/watch?v=EtiXKHNAFew
+* Just Dance 2020 | Xbox One, PS4, Switch, Wii, Stadia | https://www.youtube.com/watch?v=EtiXKHNAFew
 
 ## K
 * Kingdom Hearts 3 (Square Enix) | Re:Mind DLC Trailer | PC, Xbox One, PS4 | https://www.youtube.com/watch?v=cYCKfofK3Yk
