@@ -94,6 +94,7 @@ Accès rapide : [#A](https://github.com/Photogratte/E3-2019/blob/master/trailers
 * Fall Guys | https://www.youtube.com/watch?v=GAiaXIxS_4c
 * Fallout 76 (Bethesda) | https://www.youtube.com/watch?v=R2XdwS4lcZM + Mode Battle Royale https://www.youtube.com/watch?v=YZS6WyMJmiQ
 * FIFA 20 (EA) | Bande-annonce officielle VOLTA Football | PC, Switch, Xbox One et PlayStation 4 | https://www.youtube.com/watch?v=9E4HMgh7ZsE&list=PLLy6qvPKpdlXoG73_jKw0zZ2Dk6wmn2Ad&index=4
+* Final Fantasy VII Remake (Square Enix) | PS4 | E3 2019 Trailer https://www.youtube.com/watch?v=Z3xSGv3Hfio&t=15s
 * Flight Simulator (Microsoft) | https://www.youtube.com/watch?v=ReDDgFfWlS4
 * For Honor (Ubisoft) | https://www.youtube.com/watch?v=jI9EpQWRrdQ
 * Forza Horizon 4 (Microsoft) | https://www.youtube.com/watch?v=cASCytz8o9g
@@ -130,7 +131,7 @@ Accès rapide : [#A](https://github.com/Photogratte/E3-2019/blob/master/trailers
 ## M
 * Madden NFL 20 (EA) | Aventure de superstar |  | https://www.youtube.com/watch?v=0MVNCFoeD9I&list=PLLy6qvPKpdlXoG73_jKw0zZ2Dk6wmn2Ad&index=5
 * Maneater | https://www.youtube.com/watch?v=STDNWF8GYJs
-* Marvel's Avengers (Square Enix/Marvel) | PC, Xbox One, PS4, Stadia | https://youtu.be/rq_V6WHSmQs
+* Marvel's Avengers (Square Enix/Marvel) | PC, Xbox One, PS4, Stadia | Teaser : https://youtu.be/rq_V6WHSmQs + Bande Annonde E3 https://www.youtube.com/watch?v=LDBojdBAjXU
 * Midnight Ghost Hunt | https://www.youtube.com/watch?v=gApWHZ_vXhQ
 * Minecraft Dungeons (Microsoft) | https://www.youtube.com/watch?v=G0yh51p9P80
 * Mosaic: BlipBlop | https://www.youtube.com/watch?v=_XnrobZl95E
@@ -178,11 +179,13 @@ Accès rapide : [#A](https://github.com/Photogratte/E3-2019/blob/master/trailers
 * The Elder Scrolls Blades (Bethesda) | Mobile | https://www.youtube.com/watch?v=DTQ1pTzB5Tw 
 * The Elder Scrolls Online (Bethesda) | https://www.youtube.com/watch?v=MFsDr382K7U
 * The Elder Scrolls: Legends (Bethesda) | https://www.youtube.com/watch?v=RlKDNzwYoSE + Nouvelle extention (Bethesda) | https://www.youtube.com/watch?v=KblLW-scAcM
+* The Legend of Zelda - Breath of the wild 2 - Titre non définitif (Nintendo) | Switch | https://youtu.be/3d8PpNQhOFk
 * The Legend of Zelda - Link’s Awakening (Nintendo) | Switch | https://youtu.be/PtC6U8hOZTk
 * The Messenger | Picnic Panic | https://www.youtube.com/watch?v=GjmIWMataSI
 * The Outer Worlds (Obsidian) | PC, Xbox One, PS4 | https://www.youtube.com/watch?v=XmyF8IjfSUI
 * The Wild at Heart | PC, Xbox | 
 * Tom Clancy’s Elite Squad (Ubisoft) | https://www.youtube.com/watch?v=Gi31RjPCeHg
+* The Witcher 3: Wild Hunt - Complete Edition On Switch | Switch | Reveal Trailer E3 2019 https://www.youtube.com/watch?v=_KNiiuDowqA
 
 ## U
 * Unexplored 2 | https://www.youtube.com/watch?v=aEfm_lt4cos
