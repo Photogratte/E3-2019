@@ -54,7 +54,7 @@ Accès rapide : [#A](https://github.com/Photogratte/E3-2019/blob/master/trailers
 ## A
 * Age of Empires II Definitve Edition (Microsoft) | https://www.youtube.com/watch?v=ZOgBVR21pWg
 * Age of Wonders: Planetfall | https://www.youtube.com/watch?v=PeDoHNZthX4
-* Animal Crossing (Nintendo) | Switch 
+* Animal Crossing New Horizons (Nintendo) | Switch | https://www.youtube.com/watch?v=0p7KZd2HLHs
 * Apex Legends | Histoires des Terres Sauvages https://www.youtube.com/watch?v=jCYB1BeDv1w&list=PLLy6qvPKpdlXoG73_jKw0zZ2Dk6wmn2Ad&index=2
 * Auto Chess | https://www.youtube.com/watch?v=_ujrhTxx7Lo
 
@@ -69,6 +69,7 @@ Accès rapide : [#A](https://github.com/Photogratte/E3-2019/blob/master/trailers
 ## C
 * Carrion | https://www.youtube.com/watch?v=2Y9JxGzj5-U
 * Chivalry 2 | https://www.youtube.com/watch?v=US8nyBnX_k0
+* Collection of Mana (Square Enix) | Switch | https://www.youtube.com/watch?v=ZntXoob5VnI
 * Commander Keen (Bethesda) | https://www.youtube.com/watch?v=8bGLS4GB_Zo
 * Conan Chop Chop | https://www.youtube.com/watch?v=qIE10yQv-v4
 * Cristales | https://www.youtube.com/watch?v=PESaTF6GAZs
@@ -115,6 +116,7 @@ Accès rapide : [#A](https://github.com/Photogratte/E3-2019/blob/master/trailers
 ## I
 
 ## J
+* John Wick Hex | PC | https://youtu.be/Gy_q5XvPnCA
 * Just Dance 2020 | Xbox One, PS4, Switch, Wii, Stadia | https://www.youtube.com/watch?v=EtiXKHNAFew
 
 ## K
@@ -162,7 +164,7 @@ Accès rapide : [#A](https://github.com/Photogratte/E3-2019/blob/master/trailers
 ## S
 * Shenmue 3 | https://www.youtube.com/watch?v=K2NnzwbjDhg
 * Songs of Conquest | https://www.youtube.com/watch?v=rqZPipE3Jo8
-* Spirit Farer (Thunder Lotus Games) | PC, Xbox One, PS4, Switch | https://www.youtube.com/watch?v=YnuEvePlxWI
+* Spiritfarer (Thunder Lotus Games) | PC, Xbox One, PS4, Switch | https://www.youtube.com/watch?v=YnuEvePlxWI
 * Star Wars Jedi : The Fallen Order (EA) | PC, Xbox One, PS4 | https://www.youtube.com/watch?v=8939aURV9Dc&list=PLLy6qvPKpdlXoG73_jKw0zZ2Dk6wmn2Ad
 * Starmancer | https://www.youtube.com/watch?v=fQIuR6DK2jA
 * State of Decay 2 (Microsoft) | DLC Heartland | https://www.youtube.com/watch?v=3aXo_IJiaPQ
@@ -171,12 +173,15 @@ Accès rapide : [#A](https://github.com/Photogratte/E3-2019/blob/master/trailers
 * Tales of Arise (Bandai Namco) | https://www.youtube.com/watch?v=vS4zlqE6euQ
 * Telling Lies | https://www.youtube.com/watch?v=RLb6I159OEk
 * Terraria | https://www.youtube.com/watch?v=jPSmUeKnUqE
+* The Dark Pictures - Man of Medan | PC, PS4, Xbox One | https://youtu.be/QgW6xwr8AnU
 * The Division 2 (Ubisoft) | https://www.youtube.com/watch?v=sJ1hdbF2fZk + https://www.youtube.com/watch?v=th-qvZwoc4w
 * The Elder Scrolls Blades (Bethesda) | Mobile | https://www.youtube.com/watch?v=DTQ1pTzB5Tw 
 * The Elder Scrolls Online (Bethesda) | https://www.youtube.com/watch?v=MFsDr382K7U
 * The Elder Scrolls: Legends (Bethesda) | https://www.youtube.com/watch?v=RlKDNzwYoSE + Nouvelle extention (Bethesda) | https://www.youtube.com/watch?v=KblLW-scAcM
+* The Legend of Zelda - Link’s Awakening (Nintendo) | Switch | https://youtu.be/PtC6U8hOZTk
 * The Messenger | Picnic Panic | https://www.youtube.com/watch?v=GjmIWMataSI
 * The Outer Worlds (Obsidian) | PC, Xbox One, PS4 | https://www.youtube.com/watch?v=XmyF8IjfSUI
+* The Wild at Heart | PC, Xbox | 
 * Tom Clancy’s Elite Squad (Ubisoft) | https://www.youtube.com/watch?v=Gi31RjPCeHg
 
 ## U
