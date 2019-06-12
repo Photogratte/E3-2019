@@ -94,7 +94,7 @@ Accès rapide : [#A](https://github.com/Photogratte/E3-2019/blob/master/trailers
 * Fall Guys | https://www.youtube.com/watch?v=GAiaXIxS_4c
 * Fallout 76 (Bethesda) | https://www.youtube.com/watch?v=R2XdwS4lcZM + Mode Battle Royale https://www.youtube.com/watch?v=YZS6WyMJmiQ
 * FIFA 20 (EA) | Bande-annonce officielle VOLTA Football | PC, Switch, Xbox One et PlayStation 4 | https://www.youtube.com/watch?v=9E4HMgh7ZsE&list=PLLy6qvPKpdlXoG73_jKw0zZ2Dk6wmn2Ad&index=4
-* Final Fantasy VII Remake (Square Enix) | PS4 | E3 2019 Trailer https://www.youtube.com/watch?v=Z3xSGv3Hfio&t=15s
+* Final Fantasy VII Remake (Square Enix) | PS4 | E3 2019 Trailer https://www.youtube.com/watch?v=Z3xSGv3Hfio&t=15s + Gameplay https://www.youtube.com/watch?v=cmBKGQrUFaM
 * Flight Simulator (Microsoft) | https://www.youtube.com/watch?v=ReDDgFfWlS4
 * For Honor (Ubisoft) | https://www.youtube.com/watch?v=jI9EpQWRrdQ
 * Forza Horizon 4 (Microsoft) | https://www.youtube.com/watch?v=cASCytz8o9g
@@ -146,6 +146,7 @@ Accès rapide : [#A](https://github.com/Photogratte/E3-2019/blob/master/trailers
 
 ## P
 * Per Aspera | https://www.youtube.com/watch?v=ehdjIzalf7Y
+* PES 2020
 * Phantasy Star Online 2 (SEGA) | Xbox One | https://www.youtube.com/watch?v=4uO-2LOdQXg
 * Planet Zoo | https://www.youtube.com/watch?v=fTd_lsJA67E
 * Pokémon Épée et Bouclier (Nintendo) | Switch | https://youtu.be/YPltcxmB8I8
@@ -163,7 +164,7 @@ Accès rapide : [#A](https://github.com/Photogratte/E3-2019/blob/master/trailers
 * Roller Champions (Ubisoft) | https://www.youtube.com/watch?v=6PYfi7DqJZ8 + Gameplay https://www.youtube.com/watch?v=cFdyq9I1HZo
 
 ## S
-* Shenmue 3 | https://www.youtube.com/watch?v=K2NnzwbjDhg
+* Shenmue 3 (SEGA) |  | E3 2019 Trailer https://www.youtube.com/watch?v=K2NnzwbjDhg + Gameplay https://www.youtube.com/watch?v=ROKhVOFkZfs&
 * Songs of Conquest | https://www.youtube.com/watch?v=rqZPipE3Jo8
 * Spiritfarer (Thunder Lotus Games) | PC, Xbox One, PS4, Switch | https://www.youtube.com/watch?v=YnuEvePlxWI
 * Star Wars Jedi : The Fallen Order (EA) | PC, Xbox One, PS4 | https://www.youtube.com/watch?v=8939aURV9Dc&list=PLLy6qvPKpdlXoG73_jKw0zZ2Dk6wmn2Ad
@@ -179,10 +180,12 @@ Accès rapide : [#A](https://github.com/Photogratte/E3-2019/blob/master/trailers
 * The Elder Scrolls Blades (Bethesda) | Mobile | https://www.youtube.com/watch?v=DTQ1pTzB5Tw 
 * The Elder Scrolls Online (Bethesda) | https://www.youtube.com/watch?v=MFsDr382K7U
 * The Elder Scrolls: Legends (Bethesda) | https://www.youtube.com/watch?v=RlKDNzwYoSE + Nouvelle extention (Bethesda) | https://www.youtube.com/watch?v=KblLW-scAcM
+* THE LAST REMNANT Remastered
 * The Legend of Zelda - Breath of the wild 2 - Titre non définitif (Nintendo) | Switch | https://youtu.be/3d8PpNQhOFk
 * The Legend of Zelda - Link’s Awakening (Nintendo) | Switch | https://youtu.be/PtC6U8hOZTk
 * The Messenger | Picnic Panic | https://www.youtube.com/watch?v=GjmIWMataSI
 * The Outer Worlds (Obsidian) | PC, Xbox One, PS4 | https://www.youtube.com/watch?v=XmyF8IjfSUI
+* The Surge 2
 * The Wild at Heart | PC, Xbox | 
 * Tom Clancy’s Elite Squad (Ubisoft) | https://www.youtube.com/watch?v=Gi31RjPCeHg
 * The Witcher 3: Wild Hunt - Complete Edition On Switch | Switch | Reveal Trailer E3 2019 https://www.youtube.com/watch?v=_KNiiuDowqA
@@ -211,4 +214,4 @@ Accès rapide : [#A](https://github.com/Photogratte/E3-2019/blob/master/trailers
 * Zombie Army 4: Dead War | https://www.youtube.com/watch?v=7n6qbv1lsiQ
 
 ## 0-9
-* 12 Minutes () | https://www.youtube.com/watch?v=7h5kBrSqnbc
+* 12 Minutes (Annapurna Interactive) | https://www.youtube.com/watch?v=7h5kBrSqnbc
