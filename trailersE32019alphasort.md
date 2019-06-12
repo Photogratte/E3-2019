@@ -67,11 +67,14 @@ Accès rapide : [#A](https://github.com/Photogratte/E3-2019/blob/master/trailers
 * Brawlhalla (Ubisoft) | https://www.youtube.com/watch?v=XuNfUZdiBzY
 
 ## C
+* Cadence of Hyrule: Crypt of the NecroDancer featuring The Legend of Zelda - Bande-annonce de l'E3 19 https://www.youtube.com/watch?v=_YnI0j2_t0s
 * Carrion | https://www.youtube.com/watch?v=2Y9JxGzj5-U
 * Chivalry 2 | https://www.youtube.com/watch?v=US8nyBnX_k0
 * Collection of Mana (Square Enix) | Switch | https://www.youtube.com/watch?v=ZntXoob5VnI
 * Commander Keen (Bethesda) | https://www.youtube.com/watch?v=8bGLS4GB_Zo
 * Conan Chop Chop | https://www.youtube.com/watch?v=qIE10yQv-v4
+* Crash Team Racing Nitro-Fueled - E3 2019 Grand Prix Introduction | PS4 https://www.youtube.com/watch?v=V5Ub5AUru8w
+* Crash Team Racing Nitro-Fueled - All Racers | E3 2019 https://www.youtube.com/watch?v=dEgQTWT5wb4
 * Cristales | https://www.youtube.com/watch?v=PESaTF6GAZs
 * Crossfire X () | https://www.youtube.com/watch?v=S2JByuZ6wWk
 * Cyberpunk 2077 (CD Projekt Red) | PC, Xbox One, PS4 | Official Trailer https://www.youtube.com/watch?v=qIcTM8WXFjk
@@ -127,10 +130,12 @@ Accès rapide : [#A](https://github.com/Photogratte/E3-2019/blob/master/trailers
 * Last Oasis | https://www.youtube.com/watch?v=0XNq6Ybpehg
 * Lego the Skywalker Saga () | https://www.youtube.com/watch?v=oz_v35svV40
 * Les Sims 4 | Iles paradisiaques :bande-annonce officielle de révélation | PC, Xbox One, PS4 | https://www.youtube.com/watch?v=ihFbmjYm7CQ&list=PLLy6qvPKpdlXoG73_jKw0zZ2Dk6wmn2Ad&index=6
+* Luigi’s Mansion 3
 
 ## M
 * Madden NFL 20 (EA) | Aventure de superstar |  | https://www.youtube.com/watch?v=0MVNCFoeD9I&list=PLLy6qvPKpdlXoG73_jKw0zZ2Dk6wmn2Ad&index=5
 * Maneater | https://www.youtube.com/watch?v=STDNWF8GYJs
+* Mario & Sonic aux Jeux Olympiques (SEGA) | Switch | 
 * Marvel's Avengers (Square Enix/Marvel) | PC, Xbox One, PS4, Stadia | Teaser : https://youtu.be/rq_V6WHSmQs + Bande Annonde E3 https://www.youtube.com/watch?v=LDBojdBAjXU
 * Midnight Ghost Hunt | https://www.youtube.com/watch?v=gApWHZ_vXhQ
 * Minecraft Dungeons (Microsoft) | https://www.youtube.com/watch?v=G0yh51p9P80
@@ -145,6 +150,7 @@ Accès rapide : [#A](https://github.com/Photogratte/E3-2019/blob/master/trailers
 * Outriders (Square Enix)
 
 ## P
+* Panzer Dragoon: Remake - Bande-annonce de l'E3 2019 (Nintendo Switch) https://www.youtube.com/watch?v=csh-BhfxyLc
 * Per Aspera | https://www.youtube.com/watch?v=ehdjIzalf7Y
 * PES 2020
 * Phantasy Star Online 2 (SEGA) | Xbox One | https://www.youtube.com/watch?v=4uO-2LOdQXg
@@ -160,6 +166,7 @@ Accès rapide : [#A](https://github.com/Photogratte/E3-2019/blob/master/trailers
 * Rainbow Six Siege (Ubisoft) | https://www.youtube.com/watch?v=yQr9DV3px6E
 * Red Faction Evolution (THQ Nordic)
 * Remnant Frome the Ashes | https://www.youtube.com/watch?v=5X6Y4imLKJU
+* Resident Evil 5 et 6 sur Switch
 * RPG Times () | https://www.youtube.com/watch?v=pE2Tr2rnq3w
 * Roller Champions (Ubisoft) | https://www.youtube.com/watch?v=6PYfi7DqJZ8 + Gameplay https://www.youtube.com/watch?v=cFdyq9I1HZo
 
@@ -167,6 +174,7 @@ Accès rapide : [#A](https://github.com/Photogratte/E3-2019/blob/master/trailers
 * Shenmue 3 (SEGA) |  | E3 2019 Trailer https://www.youtube.com/watch?v=K2NnzwbjDhg + Gameplay https://www.youtube.com/watch?v=ROKhVOFkZfs&
 * Songs of Conquest | https://www.youtube.com/watch?v=rqZPipE3Jo8
 * Spiritfarer (Thunder Lotus Games) | PC, Xbox One, PS4, Switch | https://www.youtube.com/watch?v=YnuEvePlxWI
+* Spyro Reignited Trilogy Nintendo Switch Trailer https://www.youtube.com/watch?v=cDKpAvRJ120
 * Star Wars Jedi : The Fallen Order (EA) | PC, Xbox One, PS4 | https://www.youtube.com/watch?v=8939aURV9Dc&list=PLLy6qvPKpdlXoG73_jKw0zZ2Dk6wmn2Ad
 * Starmancer | https://www.youtube.com/watch?v=fQIuR6DK2jA
 * State of Decay 2 (Microsoft) | DLC Heartland | https://www.youtube.com/watch?v=3aXo_IJiaPQ
@@ -182,7 +190,7 @@ Accès rapide : [#A](https://github.com/Photogratte/E3-2019/blob/master/trailers
 * The Elder Scrolls: Legends (Bethesda) | https://www.youtube.com/watch?v=RlKDNzwYoSE + Nouvelle extention (Bethesda) | https://www.youtube.com/watch?v=KblLW-scAcM
 * THE LAST REMNANT Remastered
 * The Legend of Zelda - Breath of the wild 2 - Titre non définitif (Nintendo) | Switch | https://youtu.be/3d8PpNQhOFk
-* The Legend of Zelda - Link’s Awakening (Nintendo) | Switch | https://youtu.be/PtC6U8hOZTk
+* The Legend of Zelda - Link’s Awakening (Nintendo) | Switch | https://youtu.be/PtC6U8hOZTk + Gameplay https://www.youtube.com/watch?v=hCnDsEimMQw
 * The Messenger | Picnic Panic | https://www.youtube.com/watch?v=GjmIWMataSI
 * The Outer Worlds (Obsidian) | PC, Xbox One, PS4 | https://www.youtube.com/watch?v=XmyF8IjfSUI
 * The Surge 2
