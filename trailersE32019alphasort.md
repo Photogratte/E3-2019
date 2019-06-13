@@ -77,7 +77,7 @@ Accès rapide : [#A](https://github.com/Photogratte/E3-2019/blob/master/trailers
 * Crash Team Racing Nitro-Fueled - All Racers | E3 2019 https://www.youtube.com/watch?v=dEgQTWT5wb4
 * Cristales | https://www.youtube.com/watch?v=PESaTF6GAZs
 * Crossfire X () | https://www.youtube.com/watch?v=S2JByuZ6wWk
-* Cyberpunk 2077 (CD Projekt Red) | PC, Xbox One, PS4 | Official Trailer https://www.youtube.com/watch?v=qIcTM8WXFjk
+* Cyberpunk 2077 (CD Projekt Red) | PC, Xbox One, PS4 | Official Trailer https://www.youtube.com/watch?v=qIcTM8WXFjk + Gameplay https://www.youtube.com/watch?v=NmMt_97Or4Q
 
 ## D
 * Darksiders Genesis (THQ Nordic) | PC, Xbox One, PS4 | https://www.youtube.com/watch?v=UQ5ifGqYWTI
@@ -178,11 +178,13 @@ Accès rapide : [#A](https://github.com/Photogratte/E3-2019/blob/master/trailers
 * Star Wars Jedi : The Fallen Order (EA) | PC, Xbox One, PS4 | https://www.youtube.com/watch?v=8939aURV9Dc&list=PLLy6qvPKpdlXoG73_jKw0zZ2Dk6wmn2Ad
 * Starmancer | https://www.youtube.com/watch?v=fQIuR6DK2jA
 * State of Decay 2 (Microsoft) | DLC Heartland | https://www.youtube.com/watch?v=3aXo_IJiaPQ
+* Strangers Things 3 https://youtu.be/IF2qtnHxPeU
 
 ## T
 * Tales of Arise (Bandai Namco) | https://www.youtube.com/watch?v=vS4zlqE6euQ
 * Telling Lies | https://www.youtube.com/watch?v=RLb6I159OEk
 * Terraria | https://www.youtube.com/watch?v=jPSmUeKnUqE
+* The Dark Crystal: Age of Resistance Tactics - E3 2019 Announce Trailer | PS4 https://www.youtube.com/watch?v=wFUEDLralhY
 * The Dark Pictures - Man of Medan | PC, PS4, Xbox One | https://youtu.be/QgW6xwr8AnU
 * The Division 2 (Ubisoft) | https://www.youtube.com/watch?v=sJ1hdbF2fZk + https://www.youtube.com/watch?v=th-qvZwoc4w
 * The Elder Scrolls Blades (Bethesda) | Mobile | https://www.youtube.com/watch?v=DTQ1pTzB5Tw 
